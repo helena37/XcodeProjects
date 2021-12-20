@@ -1,0 +1,102 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F317386F275A415C004FD660 /* BoolsAndConditionalsAndComparisonOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BoolsAndConditionalsAndComparisonOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F3173870275A4E99004FD660 /* LogiclalOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LogiclalOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F3173871275A55DB004FD660 /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F3173872275A5BD9004FD660 /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F3173873275B9DD0004FD660 /* Dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F33DC2C9276B76D400672477 /* Polymorphism.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Polymorphism.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F33DC2CA276B7F1F00672477 /* Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumeration.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F36FAF7627554DAF000E06E4 /* hello-swift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "hello-swift.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F36FAF7727554ED6000E06E4 /* variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F36FAF78275550B6000E06E4 /* strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = strings.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F36FAF792755544B000E06E4 /* numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = numbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F3862084275E1F77002503DC /* optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F38886E6276CC73E00C7133D /* extensions-fun-time.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "extensions-fun-time.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F39F52F0275E353D00FBCF37 /* Objects and Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Objects and Classes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F3B218CE27673A2A00582D78 /* inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = inheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F36FAF6F27554D37000E06E4 = {
+			isa = PBXGroup;
+			children = (
+				F38886E6276CC73E00C7133D /* extensions-fun-time.playground */,
+				F33DC2CA276B7F1F00672477 /* Enumeration.playground */,
+				F33DC2C9276B76D400672477 /* Polymorphism.playground */,
+				F3B218CE27673A2A00582D78 /* inheritance.playground */,
+				F39F52F0275E353D00FBCF37 /* Objects and Classes.playground */,
+				F3862084275E1F77002503DC /* optionals.playground */,
+				F3173873275B9DD0004FD660 /* Dictionaries.playground */,
+				F3173872275A5BD9004FD660 /* Loops.playground */,
+				F3173871275A55DB004FD660 /* Array.playground */,
+				F3173870275A4E99004FD660 /* LogiclalOperators.playground */,
+				F317386F275A415C004FD660 /* BoolsAndConditionalsAndComparisonOperators.playground */,
+				F36FAF792755544B000E06E4 /* numbers.playground */,
+				F36FAF78275550B6000E06E4 /* strings.playground */,
+				F36FAF7727554ED6000E06E4 /* variables.playground */,
+				F36FAF7627554DAF000E06E4 /* hello-swift.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F36FAF7027554D37000E06E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+			};
+			buildConfigurationList = F36FAF7327554D37000E06E4 /* Build configuration list for PBXProject "hello-swift" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F36FAF6F27554D37000E06E4;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F36FAF7427554D37000E06E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F36FAF7527554D37000E06E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F36FAF7327554D37000E06E4 /* Build configuration list for PBXProject "hello-swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F36FAF7427554D37000E06E4 /* Debug */,
+				F36FAF7527554D37000E06E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F36FAF7027554D37000E06E4 /* Project object */;
+}
